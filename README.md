@@ -1,4 +1,4 @@
-<img width="640" height="400" alt="tbcqmzr2y70b1" src="https://github.com/user-attachments/assets/98ca2ae8-350c-4f89-a1b9-f9ce39a6025a/" />
+<img align="right" width="450" height="300" alt="tbcqmzr2y70b1" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif" />
 
 # Hey 👋, I'm Sakesh!
 
