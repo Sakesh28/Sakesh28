@@ -1,10 +1,13 @@
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
+<img width="640" height="400" alt="tbcqmzr2y70b1" src="https://github.com/user-attachments/assets/98ca2ae8-350c-4f89-a1b9-f9ce39a6025a/" />
 
 # Hey 👋, I'm Sakesh!
 
 ### About Me
 
 - 🎓 B.E. in Computer Science from K S School of Engineering and Management, Bengaluru
+- 📈 Passionate about  data-driven problem solving and continuous learning.
+- 🏆 Published 3 peer-reviewed research papers in AI & healthcare (Best Paper Award at NISCE–25).
+- 🤝 Open to collaborating on consumer tech products, rapid prototypes, and data-backed ideas.
 
 ### Connect with me
 
